@@ -12,7 +12,7 @@ This is a simple executable that automates the processes mentioned [here](https:
 
 ### How to use
 ---
-1. Download the latest release.
+1. Download the [latest release](https://github.com/ThejusGSajan/Adobe_hosts_file/releases/latest).
 2. Use the following command in PowerShell (as admin):
 `Stop-Process -Name “Adobe Desktop Service” -force`
 Note: You might get an error message starting with: "Stop-Process: Cannot find a process with the name..." like in the image. Ignore and continue. ![ignore error message](https://b.thumbs.redditmedia.com/kbmRrE_CMsxMdZISJ1zQ-GsP2mY3gJlsrAHpWYs3QTk.png)

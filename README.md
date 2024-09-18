@@ -18,10 +18,14 @@ This is a simple executable that automates the processes mentioned [here](https:
 Note: You might get an error message starting with: "Stop-Process: Cannot find a process with the name..." like in the image. Ignore and continue. ![ignore error message](https://b.thumbs.redditmedia.com/kbmRrE_CMsxMdZISJ1zQ-GsP2mY3gJlsrAHpWYs3QTk.png)
 3. Run the exe.
 
-Note: The hosts file blocklist is kept updated frequently. Whenever you face pop-ups, running the latest release should populate the `hosts` file with the latest IPs to be blocked. To verify whether the `hosts` file has been updated or not, search for "Last update" within the same.
+#### Notes
+---
+1. The hosts file blocklist is kept updated frequently. Whenever you face pop-ups, running the latest release should populate the `hosts` file with the latest IPs to be blocked. To verify whether the `hosts` file has been updated or not, search for "Last update" within the same.
+2. The exe will most probably be flagged as a trojan by the antivirus software running in your system (or even Windows Defender) but rest assured that it's a false positive. Temporarily pause real-time scanning or whitelist the exe to run it. (Don't forget to toggle real-time scanning back on afterwards, if you'd paused it.)
 
 ### Credits
 ---
+- [Ignacio Castro](https://github.com/ignaciocastro/a-dove-is-dumb) for keeping the list updated.
 - The people behind [r/GenP](https://www.reddit.com/r/GenP/)
 
 
